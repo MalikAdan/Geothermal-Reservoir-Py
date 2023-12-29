@@ -1,6 +1,6 @@
 # MalikAdan: Prediction of temperature using hydrogeochemical concentrations in geothermal reservoirs with machine learning algorithms
 
-Author: Adan Malik, Petroleum Engineer, Pakistan Petroleum Limited. [Bio at the bottom]
+Author: Adan Malik, Petroleum Engineer, Pakistan Petroleum Limited. 
 
 
 ## Purpose
