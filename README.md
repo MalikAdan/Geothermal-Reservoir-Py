@@ -33,6 +33,31 @@ To enhance the accuracy and reliability of our predictions, the study incorporat
 ## Suggested next steps
 In future, a robust cross-validation strategy could be employed to assess the models' generalizability across various datasets. This will ensure that the predictive models would be applicable and reliable in different geothermal contexts.
 
+
+## References
+
+    Haklidir, M. (2019) NIS-GRT, GitHub, https://github.com/haklidir/NIS-GRT/tree/master
+    Pyrcz, M. (2021) PythonNumericalDemos, GeostatsGuy, GitHub, https://github.com/GeostatsGuy
+    GeeksforGeeks (2021) How to Standardize Data in a Pandas DataFrame?, https://www.geeksforgeeks.org/how-to-standardize-data-in-a-pandas-dataframe/
+    Shetye, A. (2019) Feature Selection with sklearn and Pandas, Medium, https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b
+    Leung, K. (2021) Random Forest Regressor Code for Condo Rental Prediction, GitHub, https://gist.github.com/kennethleungty/ea3cc1de4c424a63e318f1ba5dff7c6a
+    NBShare Notebooks. Decision Tree Regression With Hyper Parameter Tuning, https://www.nbshare.io/notebook/312837011/Decision-Tree-Regression-With-Hyper-Parameter-Tuning-In-Python/
+
+## About me
+
+Howdy! I'm Adan Malik, an enthusiastic and dynamic petroleum engineer, weaving data and energy to spark innovation. I'm not just drilling for oil - I'm mining insights.
+
+My academic journey at NED University of Engineering and Technology was a cocktail of rigorous engineering and research zest, culminating in a standout CGPA of 3.88. I didn't just study Petroleum Engineering; I lived it, earning a distinction in my batch. My dissertation? A deep dive into the stress analysis of completion strings for high pressure high temperature (HPHT) gas wells.
+
+Tech-savvy? Absolutely. Python, Prosper, MBAL, Petrel, and a parade of other advanced engineering tools are my playground. I'm also a fan of weaving data narratives through Python for Data Science and have a knack for making Excel and Power BI dance to my tunes.
+
+As I navigate the complexities of energy and its future, my notebook here is more than code – it's a chronicle of my journey in reshaping how we understand and utilize energy resources. Welcome to my digital domain, where petroleum engineering meets programming!
+
+I can be reached at adansajid.sajid26@gmail.com.
+
+P.S. Explore my code, share your thoughts, and let's fuel the future of energy, one line of code at a time.
+
+
 ### Copyright Statement
 
 Copyright (c) 2023, Adan Malik
