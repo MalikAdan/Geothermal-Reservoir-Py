@@ -21,7 +21,7 @@ To enhance the accuracy and reliability of our predictions, the study incorporat
 
 Results
 1. The observed dataset exhibits a weak correlation between predictor and response variables, leading to suboptimal performance of linear regression models. The high Mean Square Error (MSE) values indicate a significant deviation of the model predictions from the actual data.
-2. A set of eight machine learning algorithms was used to analyze the hydrogeochemical dataset. During both training and testing phases, these models achieved moderate levels of accuracy. Notably, the Decision Tree and Random Forest Regression models demonstrated better performance, achieving MSEs of 0.883 and 0.742, respectively.
+2. A set of eight machine learning algorithms was used to analyze the hydrogeochemical dataset. During both training and testing phases, these models achieved moderate levels of accuracy. Notably, the Decision Tree and Random Forest Regression models demonstrated better performance, achieving MSEs of 0.742 and 0.883, respectively.
 3. A correlation analysis revealed that SiO<sub>2</sub>, Na, and Cl concentrations exhibit a relatively strong positive correlation (exceeding 0.2) with geothermal reservoir temperatures, suggesting their potential as predictive indicators in the models.
 4. Feature importance ranking analysis identified SiO<sub>2</sub> (measured in mg/L) as the most critical predictor in base cases of both Decision Tree and Random Forest models.
 5. Based on their minimal impact on model performance, Boron (mg/L) and Potassium (K, measured in mg/L) were excluded from the dataset, streamlining the feature set for more efficient model training.
