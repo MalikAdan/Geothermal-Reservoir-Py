@@ -44,7 +44,7 @@ In future, a robust cross-validation strategy could be employed to assess the mo
 
 ## About me
 
-Howdy! I'm Adan Malik, an enthusiastic and dynamic petroleum engineer, weaving data and energy to spark innovation. I'm not just drilling for oil - I'm mining insights.
+Hi! I'm Adan Malik, an enthusiastic and dynamic petroleum engineer, weaving data and energy to spark innovation. I'm not just drilling for oil - I'm mining insights.
 
 My academic journey at NED University of Engineering and Technology was a cocktail of rigorous engineering and research zest, culminating in a standout CGPA of 3.88. I didn't just study Petroleum Engineering; I lived it, earning a distinction in my batch. My dissertation? A deep dive into the stress analysis of completion strings for high pressure high temperature (HPHT) gas wells.
 
