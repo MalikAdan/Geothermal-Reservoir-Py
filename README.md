@@ -57,10 +57,6 @@ I can be reached at adansajid.sajid26@gmail.com.
 P.S. Explore my code, share your thoughts, and let's fuel the future of energy, one line of code at a time.
 
 
-### Copyright Statement
-
-Copyright (c) 2023, Adan Malik
-
-All rights reserved.
+### Permission Requests
 
 For permission requests, write to the author at adansajid.sajid26@gmail.com.
