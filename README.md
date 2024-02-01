@@ -1,6 +1,6 @@
 # MalikAdan: Prediction of temperature using hydrogeochemical concentrations in geothermal reservoirs with machine learning algorithms
 
-Author: Adan Malik, Petroleum Engineer, Pakistan Petroleum Limited. 
+Author: Adan Malik, Petroleum Engineer, Pakistan Petroleum Limited. [Bio at the bottom]
 
 
 ## Purpose
@@ -22,12 +22,13 @@ To enhance the accuracy and reliability of our predictions, the study incorporat
 
 ## Results
 1. The observed dataset exhibits a weak correlation between predictor and response variables, leading to suboptimal performance of linear regression models. The high Mean Square Error (MSE) values indicate a significant deviation of the model predictions from the actual data.
-2. A set of eight machine learning algorithms was used to analyze the hydrogeochemical dataset. During both training and testing phases, these models achieved moderate levels of accuracy. Notably, the Decision Tree and Random Forest Regression models demonstrated better performance, achieving MSEs of 0.742 and 0.883, respectively.
+2. A set of eight machine learning algorithms was used to analyze the hydrogeochemical dataset. During both training and testing phases, these models achieved moderate levels of accuracy. Notably, the Decision Tree and Random Forest Regression models demonstrated better performance, achieving MSEs of 0.8177 and 0.7881, respectively.
 3. A correlation analysis revealed that SiO<sub>2</sub>, Na, and Cl concentrations exhibit a relatively strong positive correlation (exceeding 0.2) with geothermal reservoir temperatures, suggesting their potential as predictive indicators in the models.
 4. Feature importance ranking analysis identified SiO<sub>2</sub> (measured in mg/L) as the most critical predictor in base cases of both Decision Tree and Random Forest models.
 5. Based on their minimal impact on model performance, Boron (mg/L) and Potassium (K, measured in mg/L) were excluded from the dataset, streamlining the feature set for more efficient model training.
 6. The predictive accuracy of the machine learning models is anticipated to improve with the integration of additional predictor variables and an expanded dataset, enhancing the models' ability to capture complex relationships within the data.
-7. Hyperparameter tuning will be done to look for improvements in model performance.
+7. Hyperparameter tuning yielded significant improvements in model performance. Specifically, the Random Forest model exhibited a 3.5776% reduction in MSE and a 16.1744% increase in R<sup>2</sup> score. For the Decision Tree model, hyperparameter tuning resulted in a 41.6862% improvement in R<sup>2</sup> score and a 8.5836% decrease in MSE.
+8. After hyperparameter tuning, the Decision Tree model outperformed the Random Forest model, as evidenced by a 5.271% higher R<sup>2</sup> score, indicating a more accurate fit to the data and superior predictive capability.
 
 ## Suggested next steps
 In future, a robust cross-validation strategy could be employed to assess the models' generalizability across various datasets. This will ensure that the predictive models would be applicable and reliable in different geothermal contexts.
